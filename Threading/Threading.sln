@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{A26407F7-76D9-4DE4-A2BF-BCF6549F2B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading Part 2", "Threading Part 2\Threading Part 2.csproj", "{FDE7217F-6906-4D64-931F-81370CB569BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading Part 3", "Threading Part 3\Threading Part 3.csproj", "{244BFFF2-CEA3-4549-BD9F-8FDCC912265B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26407F7-76D9-4DE4-A2BF-BCF6549F2B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26407F7-76D9-4DE4-A2BF-BCF6549F2B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26407F7-76D9-4DE4-A2BF-BCF6549F2B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26407F7-76D9-4DE4-A2BF-BCF6549F2B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE7217F-6906-4D64-931F-81370CB569BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE7217F-6906-4D64-931F-81370CB569BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE7217F-6906-4D64-931F-81370CB569BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE7217F-6906-4D64-931F-81370CB569BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244BFFF2-CEA3-4549-BD9F-8FDCC912265B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244BFFF2-CEA3-4549-BD9F-8FDCC912265B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244BFFF2-CEA3-4549-BD9F-8FDCC912265B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244BFFF2-CEA3-4549-BD9F-8FDCC912265B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise Operators Not", "Bitwise Operators\Bitwise Operators Not.csproj", "{B0BA721F-2AF2-412A-866F-CC5D71B655B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise Operators And and Or", "Bitwise Operators P2\Bitwise Operators And and Or.csproj", "{F9B46E8F-FCA7-4E04-88B7-DD4C0B0E50B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitwise Operators P3", "Bitwise Operators P3\Bitwise Operators P3.csproj", "{990AE5C4-1B27-4E30-B390-C6B9C651747D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A757CBD6-90C9-4A35-A83B-C78B3CD2D93D}"
+	ProjectSection(SolutionItems) = preProject
+		Logic Gates.txt = Logic Gates.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BA721F-2AF2-412A-866F-CC5D71B655B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BA721F-2AF2-412A-866F-CC5D71B655B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BA721F-2AF2-412A-866F-CC5D71B655B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BA721F-2AF2-412A-866F-CC5D71B655B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B46E8F-FCA7-4E04-88B7-DD4C0B0E50B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B46E8F-FCA7-4E04-88B7-DD4C0B0E50B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B46E8F-FCA7-4E04-88B7-DD4C0B0E50B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B46E8F-FCA7-4E04-88B7-DD4C0B0E50B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990AE5C4-1B27-4E30-B390-C6B9C651747D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990AE5C4-1B27-4E30-B390-C6B9C651747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990AE5C4-1B27-4E30-B390-C6B9C651747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990AE5C4-1B27-4E30-B390-C6B9C651747D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

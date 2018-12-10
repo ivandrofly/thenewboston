@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Process Class", "Process Class\Process Class.csproj", "{51469178-DF25-46A5-BC3B-1DEED3E79C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Process Class 2", "Process Class 2\Process Class 2.csproj", "{C5C6328F-30FE-4F7E-B44F-0C9DE296865F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51469178-DF25-46A5-BC3B-1DEED3E79C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51469178-DF25-46A5-BC3B-1DEED3E79C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51469178-DF25-46A5-BC3B-1DEED3E79C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51469178-DF25-46A5-BC3B-1DEED3E79C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C6328F-30FE-4F7E-B44F-0C9DE296865F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C6328F-30FE-4F7E-B44F-0C9DE296865F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C6328F-30FE-4F7E-B44F-0C9DE296865F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C6328F-30FE-4F7E-B44F-0C9DE296865F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

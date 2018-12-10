@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color Dialog", "Color Dialog\Color Dialog.csproj", "{66338AA0-C619-4052-8A8A-85D7E4770C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color Struct", "Color Struct\Color Struct.csproj", "{AB424E48-97E6-4116-9C2D-334208E4888F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66338AA0-C619-4052-8A8A-85D7E4770C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66338AA0-C619-4052-8A8A-85D7E4770C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66338AA0-C619-4052-8A8A-85D7E4770C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66338AA0-C619-4052-8A8A-85D7E4770C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB424E48-97E6-4116-9C2D-334208E4888F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB424E48-97E6-4116-9C2D-334208E4888F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB424E48-97E6-4116-9C2D-334208E4888F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB424E48-97E6-4116-9C2D-334208E4888F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
